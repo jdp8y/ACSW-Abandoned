@@ -6,8 +6,10 @@ A economy smartwatch using a Cortex-M4 processor, with 3d printed parts. What ma
 
 
 
+
 ####Contact And Bugs
 If any bugs in the code are found or if measurements are off, you can contact me at: jdp8ycontact@gmail.com
+
 
 
 
