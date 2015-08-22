@@ -5,8 +5,12 @@
 A economy smartwatch using a Cortex-M4 processor, with 3d printed parts. What make this different than other smartwatches?The processor, it is what makes the difference in price to manufacture. The processor may limit true potential, but keep in mind, this is just a watch.
 
 
+
+
 ####Contact And Bugs
 If any bugs in the code are found or if measurements are off, you can contact me at: jdp8ycontact@gmail.com
+
+
 
 
 ####Constructing The Watch
